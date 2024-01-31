@@ -1,0 +1,1 @@
+--sysroot=/opt/fsl-qoriq/2.5/sysroots/aarch64-fsl-linux
