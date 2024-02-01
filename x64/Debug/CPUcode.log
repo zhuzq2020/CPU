@@ -1,0 +1,5 @@
+﻿  main.c
+D:\workspace\C\CPU\main.c(7,2): warning C4013: “project3”未定义；假设外部返回 int
+  project3.c
+  正在生成代码...
+  CPUcode.vcxproj -> D:\workspace\C\CPU\x64\Debug\CPUcode.exe
