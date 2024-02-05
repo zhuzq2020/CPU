@@ -1,6 +1,0 @@
-﻿  project4.c
-D:\workspace\C\CPU\project4.c(11,10): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
-D:\workspace\C\CPU\project4.c(11,10): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
-D:\workspace\C\CPU\project4.c(5,23): warning C4305: “初始化”: 从“int”到“u8”截断
-D:\workspace\C\CPU\project4.c(5,29): warning C4305: “初始化”: 从“int”到“u8”截断
-  CPUcode.vcxproj -> D:\workspace\C\CPU\x64\Debug\CPUcode.exe

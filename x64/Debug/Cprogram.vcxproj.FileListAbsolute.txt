@@ -1,0 +1,3 @@
+D:\workspace\C\CPU\x64\Debug\Cprogram.exe
+D:\workspace\C\CPU\x64\Debug\Cprogram.vcxproj.CopyComplete
+D:\workspace\C\CPU\x64\Debug\pthreadVC3d.dll
