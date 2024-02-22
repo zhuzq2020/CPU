@@ -1,4 +1,7 @@
-﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Cproject.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  Cprogram.vcxproj -> D:\workspace\C\CPU\x64\Debug\Cprogram.exe
-  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
-  或批处理文件。
+﻿  CTRL_Thread.c
+D:\workspace\C\CPU\CTRL_Thread.c(5,8): error C2065: “testA”: 未声明的标识符
+  main.c
+D:\workspace\C\CPU\main.c(25,3): warning C4013: “exit”未定义；假设外部返回 int
+D:\workspace\C\CPU\main.c(34,52): error C2065: “TEST_Thread”: 未声明的标识符
+D:\workspace\C\CPU\main.c(34,41): warning C4022: “pthread_create”: 指针与实参 3 不匹配
+  正在生成代码...

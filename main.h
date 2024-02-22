@@ -7,3 +7,5 @@ enum T {
 	ENUM_B = 1
 };
 
+static int TestData = 1;
+
