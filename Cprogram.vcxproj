@@ -133,6 +133,8 @@
     <ClInclude Include="DATA_Thread.h" />
     <ClInclude Include="lib.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="project1.h" />
+    <ClInclude Include="project2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

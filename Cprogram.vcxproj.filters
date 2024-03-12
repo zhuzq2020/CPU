@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CTRL_Thread.c" />
+    <ClCompile Include="DATA_Thread.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="project1.c" />
+    <ClCompile Include="project2.c" />
+    <ClCompile Include="project3.c" />
+    <ClCompile Include="project5.c" />
+    <ClCompile Include="project4.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CTRL_Thread.h" />
+    <ClInclude Include="DATA_Thread.h" />
+    <ClInclude Include="lib.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="project1.h" />
+    <ClInclude Include="project2.h" />
+  </ItemGroup>
+</Project>
